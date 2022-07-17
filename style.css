@@ -1,0 +1,60 @@
+#video{
+width: 100%;
+height: 500px;
+border: none;
+}
+#Nav{
+position: sticky;
+top: 0;
+z-index: 99999;
+}
+body{
+text-align: center;
+}
+#church{
+border: 4px dashed darkblue;
+}
+#library{
+border: 4px dashed darkblue;
+}
+#auditorium{
+border: 4px dashed darkblue;
+}
+.Environment-Pollution i{
+float: right;
+}
+.Environment-Pollution{
+font-size: 20px;
+padding: 6px 22px;
+border-radius:10px ;
+margin-bottom: 15px;
+height: 40px;
+width: 100%;
+}
+.STAR{
+color: orange;
+}
+#green{
+float: left;
+}
+#green img{
+margin-bottom: 20px;
+float: left;
+}
+.pt{
+width: 50%;
+height: 50%;
+}
+#yellow{
+float: left;
+}
+#yellow img{
+margin-bottom: 20px;
+float: left;
+}
+#Whatsnew{
+margin: 10px;
+}
+#green{
+margin-bottom: 20px;
+}
